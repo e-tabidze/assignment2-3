@@ -1,0 +1,6 @@
+313/313 - 1s - 3ms/step - accuracy: 0.6741 - loss: 2.7648
+
+print(test_acc) for 20 epochs
+
+0.6740999817848206
+
